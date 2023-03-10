@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+_Markdown Cheatsheet - 김평우_
 ===================
 
 - - - - 
-# Heading 1 #
+# 제1 제목 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제2제목 ##
 
     Markup :  ## Heading 2 ##
 
